@@ -1,4 +1,4 @@
-## Welcome! Eu sou o guilherme Martins
+## Welcome! Eu sou o Guilherme Martins
  <div>
 <div align="center">
   <a href="https://github.com/techjuliana">
