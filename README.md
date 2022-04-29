@@ -1,4 +1,13 @@
+ Hi there🥳
+
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=GuilhermeZety&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
+
+[![Carreira](https://img.shields.io/badge/Career-1%20years-blue)]&nbsp;
+[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-22-green)](https://oliota.com/cursos)&nbsp;
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Guilherme+Martins;FullStack+Developer;)](https://git.io/typing-svg)
+
+
 
  <div>
 <div align="center">
