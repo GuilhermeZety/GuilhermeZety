@@ -26,12 +26,12 @@
 <td>Backend</td>
 <td>
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.NET)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
 ![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.NET)&nbsp;
 
 </td>
 </tr>
