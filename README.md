@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme Martins
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+analist+at+Capgemini;Multistack+instructor+on+Proway)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Guilherme+Martins;FullStack+Developer;)](https://git.io/typing-svg)
 
  <div>
 <div align="center">
