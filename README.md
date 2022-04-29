@@ -8,9 +8,10 @@
 
 <div>
 	<div align="center">
-	<a href="https://github.com/GuilhermeZety">
-		<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeZety&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-		<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeZety&layout=compact&langs_count=7&theme=dracula"/>
+		<a href="https://github.com/GuilhermeZety">
+			<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeZety&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+			<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeZety&layout=compact&langs_count=7&theme=dracula"/>
+		</a>
  	</div>
 </div>
 
@@ -26,7 +27,6 @@
 				![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
 				![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
 				![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
-				![.Net](https://img.shields.io/badge/.NET-black?style=flat&logo=.NET)&nbsp;
 			</td>
 		</tr>
 		<tr>
