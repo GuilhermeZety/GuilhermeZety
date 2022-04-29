@@ -7,15 +7,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Guilherme+Martins;FullStack+Developer;)](https://git.io/typing-svg)
 
-
-
- <div>
-<div align="center">
+<div>
+ <div align="center">
   <a href="https://github.com/GuilhermeZety">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeZety&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeZety&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
 </div>
-  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="GuilhermeZety-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +21,7 @@
   <img align="center" alt="GuilhermeZety-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="GuilhermeZety-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GuilhermeZety-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </div>
 <div> 
  
  ##
