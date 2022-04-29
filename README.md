@@ -29,14 +29,9 @@
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.NET)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
-![C](https://img.shields.io/badge/-C-black?style=flat&logo=C&logoColor=white)&nbsp;
-![Delphi](https://img.shields.io/badge/-Delphi-black?style=flat&logo=Delphi&logoColor=ff0000)&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
 ![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=Swagger)&nbsp;
-![cUrl](https://img.shields.io/badge/-cUrl-black?style=flat&logo=cUrl)&nbsp;
 
 </td>
 </tr>
@@ -46,23 +41,16 @@
 <td>Frontend</td>
 <td>
 
+![React.js](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat&logo=next.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
-![Materialize](https://img.shields.io/badge/-Materialize-black?style=flat&logo=Material-design&logoColor=red)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
-![Json](https://img.shields.io/badge/-Json-black?style=flat&logo=json)&nbsp;
-![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat&logo=jquery)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
-![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
+![Json](https://img.shields.io/badge/-Json-black?style=flat&logo=json)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)&nbsp;
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
-![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=CodePen)&nbsp;
-
 
 </td>
 
