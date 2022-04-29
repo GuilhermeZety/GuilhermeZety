@@ -19,7 +19,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_zety/)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](mailto:guilherme.zety@outlook.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-l-martins/)&nbsp;
 
 </center>
  
