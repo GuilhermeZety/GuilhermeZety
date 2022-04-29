@@ -27,15 +27,11 @@
 <td>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
-![C](https://img.shields.io/badge/-C-black?style=flat&logo=C&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
-![Delphi](https://img.shields.io/badge/-Delphi-black?style=flat&logo=Delphi&logoColor=ff0000)&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
 ![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=Swagger)&nbsp;
-![cUrl](https://img.shields.io/badge/-cUrl-black?style=flat&logo=cUrl)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.NET)&nbsp;
 
 </td>
 </tr>
