@@ -4,7 +4,7 @@
 
 ![Carreira](https://img.shields.io/badge/Career-1%20years-blue)&nbsp;
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Guilherme+Martins;FullStack+Developer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Guilherme+Martins;Flutter+Developer;)
 
 <div>
 	<div align="center">
