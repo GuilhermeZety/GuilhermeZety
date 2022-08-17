@@ -37,6 +37,7 @@
 <td>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart)&nbsp;
 
 </td>
 
