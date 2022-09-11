@@ -1,4 +1,4 @@
-# Hi there🤠
+# Hi There🤠
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=GuilhermeZety&color=ff0000&label=Visitante+nº:)
 ![Carreira](https://img.shields.io/badge/Career-2%20years-blue)&nbsp;
