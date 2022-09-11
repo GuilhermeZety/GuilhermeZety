@@ -1,6 +1,6 @@
 # Hi there🥳
 
-Prazer, me chamo Guilher. Atualmente atuo como Desenvolvedor Front-End/Mobile, Estou na área Por volta de 2 Anos. Sempre estudando em um aprendizado sempre continuo. Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo), no momento estou com um projeto em desenvolvimento, caso queira ver mais sobre:  https://github.com/GuilhermeZety/RpGaming . Espero que goste do que encontrar aqui :) nao tenho portifólio pronto ainda, mas garanto pra vc que em breve terei ;) 
+Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Front-End/Mobile, Estou na área Por volta de 2 Anos. Sempre estudando em um aprendizado sempre continuo. Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo), no momento estou com um projeto em desenvolvimento, caso queira ver mais sobre:  https://github.com/GuilhermeZety/RpGaming . Espero que goste do que encontrar aqui :) nao tenho portifólio pronto ainda, mas garanto pra vc que em breve terei ;) 
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=GuilhermeZety&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
