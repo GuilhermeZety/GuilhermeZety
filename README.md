@@ -1,10 +1,24 @@
-# Hi there🥳
+# Hi there🤠
 
-Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Front-End/Mobile, Estou na área Por volta de 2 Anos. Sempre estudando em um aprendizado sempre continuo. Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo), no momento estou com um projeto em desenvolvimento, caso queira ver mais sobre:  https://github.com/GuilhermeZety/RpGaming . Espero que goste do que encontrar aqui :) nao tenho portifólio pronto ainda, mas garanto pra vc que em breve terei ;) 
+Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Front-End/Mobile; Estou na área por volta de 2 Anos; Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo); Sempre estudando em um aprendizado sempre continuo.  
+
+No momento estou com um projeto em desenvolvimento, caso queira ver mais sobre: https://github.com/GuilhermeZety/RpGaming . 
+
+Espero que goste do que encontrar aqui 😀 não tenho portifólio pronto ainda, mas garanto pra vc que em breve terei 😉
+</br>
+</br>
+</br>
+</br>
+Entre em contato comigo! </br></br>
+Email: guilherme.zety@outlook.com
+</br>
+Linkedin: https://www.linkedin.com/in/guilherme-m-l-martins
+</br>
+Discord: &lt;ZetyZin /&gt;#8343
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=GuilhermeZety&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
-![Carreira](https://img.shields.io/badge/Career-1%20years-blue)&nbsp;
+![Carreira](https://img.shields.io/badge/Career-2%20years-blue)&nbsp;
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Guilherme+Martins;Flutter+Developer;)
 
@@ -50,9 +64,9 @@ Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Front-End/Mobile
 <td>Frontend</td>
 <td>
 
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat&logo=next.js)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)&nbsp;
@@ -73,11 +87,11 @@ Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Front-End/Mobile
 <td>Backend</td>
 <td>
 
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.NET)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
-![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)&nbsp;
 
 </td>
