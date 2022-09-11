@@ -1,6 +1,7 @@
 # Hi there🤠
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=GuilhermeZety&color=ff0000&label=Visitante+nº:)
+![Carreira](https://img.shields.io/badge/Career-2%20years-blue)&nbsp;
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Guilherme+Martins;Flutter+Developer;)
@@ -22,7 +23,6 @@ Linkedin: https://www.linkedin.com/in/guilherme-m-l-martins
 Discord: &lt;ZetyZin /&gt;#8343
 
 
-![Carreira](https://img.shields.io/badge/Career-2%20years-blue)&nbsp;
 
 <div>
 	<div align="center">
