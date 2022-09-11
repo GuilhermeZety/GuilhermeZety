@@ -1,5 +1,11 @@
 # Hi there🤠
 
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=GuilhermeZety&color=ff0000&label=Visitante+nº:)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Guilherme+Martins;Flutter+Developer;)
+
+
 Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Front-End/Mobile; Estou na área por volta de 2 Anos; Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo); Sempre estudando em um aprendizado sempre continuo.  
 
 No momento estou com um projeto em desenvolvimento, caso queira ver mais sobre: https://github.com/GuilhermeZety/RpGaming . 
@@ -15,11 +21,8 @@ Linkedin: https://www.linkedin.com/in/guilherme-m-l-martins
 </br>
 Discord: &lt;ZetyZin /&gt;#8343
 
-![Visitas em meu perfil](https://komarev.com/ghpvc/?username=GuilhermeZety&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 ![Carreira](https://img.shields.io/badge/Career-2%20years-blue)&nbsp;
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Guilherme+Martins;Flutter+Developer;)
 
 <div>
 	<div align="center">
