@@ -8,7 +8,6 @@ Espero que goste do que encontrar aqui 😀 não tenho portifólio pronto ainda,
 </br>
 </br>
 </br>
-</br>
 Entre em contato comigo! </br></br>
 Email: guilherme.zety@outlook.com
 </br>
