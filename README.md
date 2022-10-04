@@ -12,31 +12,22 @@ Espero que goste do que encontrar aqui 😀 não tenho portifólio pronto ainda,
 </br>
 </br>
 </br>
-Entre em contato comigo! </br></br>
-Email: guilherme.zety@outlook.com
-</br>
-Linkedin: https://www.linkedin.com/in/guilherme-m-l-martins
-</br>
-Discord: &lt;ZetyZin /&gt;#8343
+Entre em contato comigo! </br>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_zety/)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](mailto:guilherme.zety@outlook.com)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-l-martins/)&nbsp;
 
 
 
 <div>
 	<div align="center">
 		<a href="https://github.com/GuilhermeZety">
-			<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeZety&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-			<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeZety&layout=compact&langs_count=7&theme=dracula"/>
+			<img height="200em"  src="https://github-readme-stats.vercel.app/api?username=GuilhermeZety&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+			<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeZety&layout=compact&langs_count=7&theme=dracula"/>
 		</a>
  	</div>
 </div>
-
-<center>
-
-[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_zety/)&nbsp;
-[![Email](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](mailto:guilherme.zety@outlook.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-l-martins/)&nbsp;
-
-</center>
  
  
  
