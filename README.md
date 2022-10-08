@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:666CDE&height=210&section=header&text=Guilherme%20Martins&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Developer&descAlignY=50">
 
-![Visitas em meu perfil](https://komarev.com/ghpvc/?username=GuilhermeZety&color=ff0000&label=Visitante+nº:)
-![Carreira](https://img.shields.io/badge/Career-2%20years-blue)&nbsp;
+![Visitas em meu perfil](https://komarev.com/ghpvc/?style=for-the-badge&username=GuilhermeZety&color=ff0000&label=Visitante+nº:)
+![Carreira](https://img.shields.io/badge/Career-2%20years-blue?style=for-the-badge)&nbsp;
 
 
 Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Flutter; Estou na área por volta de 2 Anos; Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo); Sempre estudando em um aprendizado sempre continuo.  
