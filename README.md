@@ -13,9 +13,9 @@ Espero que goste do que encontrar aqui 😀 não tenho portifólio pronto ainda,
 </br>
 Entre em contato comigo! </br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_zety/)&nbsp;
-[![Email](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](mailto:guilherme.zety@outlook.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-l-martins/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_zety/)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.zety@outlook.com)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-l-martins/)&nbsp;
 
 
 
