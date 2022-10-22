@@ -6,6 +6,8 @@
 
 Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Flutter; Estou na área por volta de 2 Anos; Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo); Sempre estudando em um aprendizado sempre continuo.  
 
+Meu portifólio😁: https://guilhermezety.github.io/#/
+
 No momento estou com um projeto em desenvolvimento, caso queira ver mais sobre: https://github.com/GuilhermeZety/RpGaming . 
 
 Espero que goste do que encontrar aqui 😀 não tenho portifólio pronto ainda, mas garanto pra vc que em breve terei 😉
