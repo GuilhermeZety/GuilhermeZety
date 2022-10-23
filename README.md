@@ -19,6 +19,14 @@ Entre em contato comigo! </br>
 [![Email](https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.zety@outlook.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-l-martins/)&nbsp;
 
+<!---
+<p>
+  <img
+    align="center"
+    src="https://activity-graph.herokuapp.com/graph?username=GuilhermeZety&theme=dracula&hide_border=true"
+  />
+</p>
+
 <div>
 	<div align="center">
 		<a href="https://github.com/GuilhermeZety">
@@ -26,6 +34,8 @@ Entre em contato comigo! </br>
 			<img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeZety&bg_color=30,9D34AE,666CDE&title_color=fff&text_color=fff&langs_count=4&layout=compact" /+>
  	</div>
 </div>
+
+-->
  
  
 ## 🎓 Conhecimento 
