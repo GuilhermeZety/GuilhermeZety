@@ -4,7 +4,7 @@
 ![Carreira](https://img.shields.io/badge/Career-2%20years-blue?style=for-the-badge)&nbsp;
 
 
-Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Flutter; Estou na área por volta de 2 Anos; Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo); Sempre estudando em um aprendizado sempre continuo.  
+Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Flutter. Estou na área por volta de 2 Anos. Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo); Sempre estudando em um aprendizado sempre continuo.  
 
 Meu portifólio😁: https://guilhermezety.github.io/#/
 
