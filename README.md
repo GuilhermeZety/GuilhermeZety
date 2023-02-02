@@ -1,4 +1,15 @@
 
+
+
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://user-images.githubusercontent.com/90266977/216214796-16daffbb-60e3-44b9-8125-b4f741e5eb1f.svg" style="vertical-align: top;" width='50%' height="250px"/>
+    <img src="https://user-images.githubusercontent.com/90266977/216214981-2d466da5-2c8b-43ea-bd47-cb32b8682303.gif" width='25%' height="250px"/>
+  </div>
+</div>
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:666CDE&height=210&section=header&text=Guilherme%20Martins&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Developer&descAlignY=50">
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?style=for-the-badge&username=GuilhermeZety&color=ff0000&label=Visitante+nº:)
