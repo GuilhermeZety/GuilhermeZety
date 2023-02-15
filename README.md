@@ -1,24 +1,24 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:666CDE&height=210&section=header&text=Guilherme%20Martins&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Developer&descAlignY=50">
 
-![Visitas em meu perfil](https://komarev.com/ghpvc/?style=for-the-badge&username=GuilhermeZety&color=ff0000&label=Visitante+nº:)
-![Carreira](https://img.shields.io/badge/Career-2%20years-blue?style=for-the-badge)&nbsp;
+Prazer, sou o Guilherme, um desenvolvedor de software com mais de 2 anos de experiência na área de programação e especializado em Flutter e Dart, om experiência em gerenciamento de equipe e desenvolvimento. 
 
+Desenvolvedor apaixonado por fazer as coisas acontecerem, tenho desde sempre aptidão com UX e UI logo, me dei muito bem no desenvolvimento front-end/mobile, me cosidero um profissional completo em diversos àspectos, sendo tanto em "Soft Skills" e tanto em "Hard Skills"; Além de desenvolvedor atuo como UX/UI prezando sempre a experiencia de uso da aplicação, tanto com belezas visuais quanto com a bela experiencia do simplemente usar;
 
-Prazer, me chamo Guilherme,  Atualmente atuo como Desenvolvedor Flutter. Estou na área por volta de 2 Anos. Pretendendo cursar em Analise e Desenvolvimento de Sistemas (Tecnólogo); Sempre estudando em um aprendizado sempre continuo.  
+espero que goste do que ver aqui, quase nunca os projetos estao atualizados kkkk me desculpem por isso, mas bem vindo :)
 
-Meu portifólio😁: https://guilhermezety.github.io/#/
+Entre em contato comigo se você estiver procurando um desenvolvedor experiente em Flutter e Dart para sua próxima equipe de desenvolvimento. Ou se tiver apenas alguma dúvida :)
 
-No momento estou com um projeto em desenvolvimento, caso queira ver mais sobre: https://github.com/GuilhermeZety/RpGaming . 
+Portifólio:
+https://guilhermezety.github.io/#/
 
-Espero que goste do que encontrar aqui 😀 não tenho portifólio pronto ainda, mas garanto pra vc que em breve terei 😉
+Linkedin:
+[https://github.com/GuilhermeZety](https://www.linkedin.com/in/guilherme-m-l-martins/)
+
+Contato:
+guilherme.zety@outlook.com
+
 </br>
-</br>
-Entre em contato comigo! </br>
-
-[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_zety/)&nbsp;
-[![Email](https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.zety@outlook.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-l-martins/)&nbsp;
 
 <!---
 <p>
