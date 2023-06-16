@@ -58,7 +58,7 @@ guilherme.zety@outlook.com
 </tr>
 
 <tr>
-<td>👁‍🗨</td>
+<td>🖥️</td>
 <td>Frontend</td>
 <td>
 
