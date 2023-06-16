@@ -81,7 +81,7 @@ guilherme.zety@outlook.com
 
 
 <tr>
-<td >👨🏻‍💻</td>
+<td>📥</td>
 <td>Backend</td>
 <td>
 
@@ -98,7 +98,7 @@ guilherme.zety@outlook.com
 
 <tr>
 
-<td >🪑🎲</td>
+<td>🗄️</td>
 <td >Database</td>
 <td>
 
