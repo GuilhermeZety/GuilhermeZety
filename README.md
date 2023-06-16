@@ -46,7 +46,7 @@ guilherme.zety@outlook.com
 <tr>
 
 
-<td>📲⌚</td>
+<td>📱</td>
 <td>Mobile</td>
 <td>
 
