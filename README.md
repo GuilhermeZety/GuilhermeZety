@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8AC5ED,100:4185B3&height=210&section=header&text=Guilherme%20Martins&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Developer&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3FA3E7,100:4185B3&height=210&section=header&text=Guilherme%20Martins&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Developer&descAlignY=50">
 
 Prazer, sou o Guilherme, um desenvolvedor de software com mais de 3 anos de experiência na área de programação e especializado em Flutter e Dart, com experiência em gerenciamento de equipe e desenvolvimento. 
 
