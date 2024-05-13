@@ -36,9 +36,7 @@ Atualmente trabalhando na <a href="https://www.linkedin.com/company/w2o-software
 Boa experiencia em desenvolvimento e UX/UI, tenho uns projetinhos ai, espero que gostem!
 
 Qualquer duvida me contacte em algum dos links acima, responderei o mais breve possivel!
-
-
-</br> 
+ 
  
 ## 🎓 Conhecimento 
 <table> 
