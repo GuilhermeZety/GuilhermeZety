@@ -14,40 +14,31 @@
 <a href="https://www.linkedin.com/in/guilherme-m-l-martins/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
-<a href="https://github.com/GuilhermeZety">
+<a href="https://www.instagram.com/guilherme_zety/">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://github.com/GuilhermeZety">
+<a href="https://twitter.com/Gui_Zety">
 	<img src="https://img.shields.io/badge/Siga%20me-000000?style=for-the-badge&logo=X&logoColor=white" alt="X" />
 </a>  
-<a href="https://github.com/GuilhermeZety">
+<a href="mailto:guilherme.zety@outlook.com">
 	<img src="https://img.shields.io/badge/Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contato" />
 </a> 
 
 </br>
 </br>
 
-Olá, Bem Vindo!
+Olá, Bem Vindo!✨
 
-Prazer, eu sou o Guilherme, Dese
+Prazer, eu sou o Guilherme, Desenvolvedor Mobile(Flutter) a quase 4 anos no mercado!
 
+Atualmente trabalhando na <a href="https://www.linkedin.com/company/w2o-softwares-para-internet/">W2O Softwares e Aplicativos</a>
 
+Boa experiencia em desenvolvimento e UX/UI, tenho uns projetinhos ai, espero que gostem!
 
-
-
-
-
-Prazer, sou o Guilherme, um desenvolvedor de software com mais de 3 anos de experiência na área de programação e especializado em Flutter e Dart, com experiência em gerenciamento de equipe e desenvolvimento. 
-
-Desenvolvedor apaixonado por fazer as coisas acontecerem, tenho desde sempre aptidão com UX e UI logo, me dei muito bem no desenvolvimento front-end/mobile, me cosidero um profissional completo em diversos àspectos, sendo tanto em "Soft Skills" e tanto em "Hard Skills"; Além de desenvolvedor atuo como UX/UI prezando sempre a experiencia de uso da aplicação, tanto com belezas visuais quanto com a bela experiencia do simplemente usar;
-
-espero que goste do que ver aqui, quase nunca os projetos estao atualizados kkkk me desculpem por isso, mas bem vindo :)
-
-Entre em contato comigo se você estiver procurando um desenvolvedor experiente em Flutter e Dart para sua próxima equipe de desenvolvimento. Ou se tiver apenas alguma dúvida :)
+Qualquer duvida me contacte em algum dos links acima, responderei o mais breve possivel!
 
 
-</br>
- 
+</br> 
  
 ## 🎓 Conhecimento 
 <table> 
