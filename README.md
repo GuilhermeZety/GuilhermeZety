@@ -1,5 +1,41 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3FA3E7,100:4185B3&height=210&section=header&text=Guilherme%20Martins&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Developer&descAlignY=50">
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3FA3E7,100:4185B3&height=210&section=header&text=Guilherme%20Martins&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Developer&descAlignY=50"> -->
+![github-header-image (3)](https://github.com/GuilhermeZety/GuilhermeZety/assets/90266977/8e5e1581-e172-40a0-96d2-d76462469793)
+
+[![GitHub Guilherme](https://img.shields.io/github/followers/GuilhermeZety?label=follow&style=social)](https://github.com/GuilhermeZety)
+<a href="https://github.com/GuilhermeZety">
+	<img src="https://komarev.com/ghpvc/?username=GuilhermeZety" alt="page views" />
+</a>
+
+
+<a href="https://guilhermezety.github.io/">
+	<img src="https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="Portifolio" />
+</a>
+<a href="https://www.linkedin.com/in/guilherme-m-l-martins/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+</a>
+<a href="https://github.com/GuilhermeZety">
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/GuilhermeZety">
+	<img src="https://img.shields.io/badge/Siga%20me-000000?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+</a>  
+<a href="https://github.com/GuilhermeZety">
+	<img src="https://img.shields.io/badge/Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contato" />
+</a> 
+
+</br>
+</br>
+
+Olá, Bem Vindo!
+
+Prazer, eu sou o Guilherme, Dese
+
+
+
+
+
+
 
 Prazer, sou o Guilherme, um desenvolvedor de software com mais de 3 anos de experiência na área de programação e especializado em Flutter e Dart, com experiência em gerenciamento de equipe e desenvolvimento. 
 
@@ -9,34 +45,8 @@ espero que goste do que ver aqui, quase nunca os projetos estao atualizados kkkk
 
 Entre em contato comigo se você estiver procurando um desenvolvedor experiente em Flutter e Dart para sua próxima equipe de desenvolvimento. Ou se tiver apenas alguma dúvida :)
 
-Portifólio:
-https://guilhermezety.github.io/#/
-
-Linkedin:
-[https://github.com/GuilhermeZety](https://www.linkedin.com/in/guilherme-m-l-martins/)
-
-Contato:
-guilherme.zety@outlook.com
 
 </br>
-
-<!---
-<p>
-  <img
-    align="center"
-    src="https://activity-graph.herokuapp.com/graph?username=GuilhermeZety&theme=dracula&hide_border=true"
-  />
-</p>
-
-<div>
-	<div align="center">
-		<a href="https://github.com/GuilhermeZety">
-			<img height="200em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=GuilhermeZety&bg_color=30,9D34AE,666CDE&title_color=fff&text_color=fff&layout=compact"/>
-			<img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeZety&bg_color=30,9D34AE,666CDE&title_color=fff&text_color=fff&langs_count=4&layout=compact" /+>
- 	</div>
-</div>
-
--->
  
  
 ## 🎓 Conhecimento 
