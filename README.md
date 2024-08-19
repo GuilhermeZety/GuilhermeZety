@@ -50,7 +50,7 @@ Qualquer duvida me contacte em algum dos links acima, responderei o mais breve p
 <td>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)&nbsp;
 
 </td>
 
@@ -64,14 +64,8 @@ Qualquer duvida me contacte em algum dos links acima, responderei o mais breve p
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=flutter)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)&nbsp;
-![Json](https://img.shields.io/badge/-Json-black?style=for-the-badge&logo=json)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)&nbsp;
 
 </td>
 
@@ -84,10 +78,8 @@ Qualquer duvida me contacte em algum dos links acima, responderei o mais breve p
 <td>Backend</td>
 <td>
 
-![Dart](https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C+sharp&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=.NET)&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)&nbsp;
+![Dart Frog](https://img.shields.io/badge/-Dart%20Frog-black?style=for-the-badge&logo=dart)&nbsp;
+![.NET Core](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=.NET)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)&nbsp;
 
@@ -101,12 +93,13 @@ Qualquer duvida me contacte em algum dos links acima, responderei o mais breve p
 <td >Database</td>
 <td>
 
+![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logo=supabase)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)&nbsp;
-![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)&nbsp;
 ![GraphQl](https://img.shields.io/badge/-GraphQl-black?style=for-the-badge&logo=graphql)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=for-the-badge&logo=sqlite)&nbsp;
-![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=for-the-badge&logo=microsoft-Sql-Server)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=prisma)&nbsp;
 
 </td>
 </tr>
@@ -117,10 +110,29 @@ Qualquer duvida me contacte em algum dos links acima, responderei o mais breve p
 <td>IDE</td>
 <td>
 
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=for-the-badge&logo=visual-studio&logoColor=purple)&nbsp;
 ![XCode](https://img.shields.io/badge/-XCode-black?style=for-the-badge&logo=Xcode)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=Android+Studio&logoColor=green)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=for-the-badge&logo=intellijidea)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=for-the-badge&logo=visual-studio&logoColor=purple)&nbsp;
+![IDX](https://img.shields.io/badge/-IDX-black?style=for-the-badge&logo=nounproject)&nbsp;
+
+</td>
+</tr>
+
+
+
+<tr>
+
+<td>🤖</td>
+<td>IA</td>
+<td>
+
+![Chat GPT](https://img.shields.io/badge/-Chat%20GPT-black?style=for-the-badge&logo=robotframework&logoColor=70A597)&nbsp;
+![Gemini](https://img.shields.io/badge/-Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=C66D84)&nbsp;
+![Gemma](https://img.shields.io/badge/-Gemma-black?style=for-the-badge&logo=googlegemini&logoColor=3C8EFC)&nbsp;
+![DALL-E](https://img.shields.io/badge/DALLE-black?style=for-the-badge&logo=robotframework&logoColor=FFFFFF)&nbsp;
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-black?style=for-the-badge&logo=robotframework&logoColor=084D53)&nbsp;
 
 </td>
 </tr>
@@ -133,8 +145,8 @@ Qualquer duvida me contacte em algum dos links acima, responderei o mais breve p
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-Git%20Lab-black?style=for-the-badge&logo=gitlab)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=for-the-badge&logo=bitbucket)&nbsp;
+![GitLab](https://img.shields.io/badge/-Git%20Lab-black?style=for-the-badge&logo=gitlab)&nbsp;
 
 </td>
 </tr>
