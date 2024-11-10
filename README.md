@@ -32,7 +32,7 @@
 
 Olá, Bem Vindo!✨
 
-Prazer, eu sou o Guilherme, Desenvolvedor Mobile(Flutter) a quase 4 anos no mercado!
+Prazer, eu sou o Guilherme, Desenvolvedor Mobile(Flutter) a 4 anos no mercado!
 
 Atualmente trabalhando na <a href="https://www.linkedin.com/company/w2o-softwares-para-internet/">W2O Softwares e Aplicativos</a>
 
