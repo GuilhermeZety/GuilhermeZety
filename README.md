@@ -11,7 +11,7 @@
 </a>
 
 
-<a href="https://guilhermezety.github.io/">
+<a href="https://guilhermemartins.vercel.app/">
 	<img src="https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="Portifolio" />
 </a>
 <a href="https://www.linkedin.com/in/guilherme-m-l-martins/">
@@ -34,7 +34,7 @@ Olá, Bem Vindo!✨
 
 Prazer, eu sou o Guilherme, Desenvolvedor Mobile(Flutter) a 4 anos no mercado!
 
-Atualmente trabalhando na <a href="https://www.linkedin.com/company/w2o-softwares-para-internet/">W2O Softwares e Aplicativos</a>
+Atualmente trabalhando na <a href="https://www.linkedin.com/company/ilia-digital/">Ília Digital</a>
 
 Boa experiencia em desenvolvimento e UX/UI, tenho uns projetinhos ai, espero que gostem!
 
